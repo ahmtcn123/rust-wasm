@@ -1,4 +1,4 @@
-![Main Logo](/header.png)
+![Main Logo](/Header.png)
 
 # Rust ile WebAssembly
 
